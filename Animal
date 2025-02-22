@@ -1,0 +1,17 @@
+plublic class Animal{
+static String name;
+static string species;
+       int age;
+       double wieght;
+       int lifeSpan;
+       double heartRate;
+       double avgTemperature;
+public void sound(){
+
+}
+
+public static void Main(String[]args){
+Animal a=new Animal();
+
+   }
+}
