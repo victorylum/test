@@ -11,6 +11,8 @@ public void ticket(){
 
 public static void main(String[]args){
 Employee e=new Employee();
-
+e.name=Tigha victory;
+  contact=0685753349;
+  
   }
 }
