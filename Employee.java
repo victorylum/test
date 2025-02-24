@@ -5,14 +5,18 @@ int contact;
 String address;
 String position;
 static int salary;
-public void ticket(){
+public void bookTicket(20){
 
 }
 
 public static void main(String[]args){
 Employee e=new Employee();
 e.name=Tigha victory;
-  contact=0685753349;
+  e.contact=0685753349;
+  int salary=25000;
+  int s=2;
+  int bookTicket=(20);
+  system.out.println(s);
   
   }
 }
